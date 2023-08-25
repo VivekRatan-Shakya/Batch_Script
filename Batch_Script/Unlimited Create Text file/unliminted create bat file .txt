@@ -1,0 +1,6 @@
+@echo off
+
+goto a
+:a
+echo Sorry !!!!!!
+goto a
